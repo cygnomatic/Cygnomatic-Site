@@ -2,6 +2,7 @@
 title: 机械组招新章程
 createTime: 2024/09/06 08:12:04
 permalink:  /recruit/mecha/ 
+icon: f7:wrench
 ---
 
 # 机械组招新章程

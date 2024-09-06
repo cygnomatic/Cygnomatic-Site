@@ -2,6 +2,7 @@
 title: 电控组招新章程
 createTime: 2024/09/05 20:12:04
 permalink:  /recruit/embed/ 
+icon: ph:cpu
 ---
 
 # 2025赛季鸿雁电控(硬件)组招新
