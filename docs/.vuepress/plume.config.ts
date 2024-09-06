@@ -9,6 +9,7 @@ export default defineThemeConfig({
   logo: 'cyg_logo_dark_large.svg',
   logoDark: 'cyg_logo_light_large.svg',
   appearance: true,
+  contributors: false,
 
   profile: {
     avatar: 'https://theme-plume.vuejs.press/plume.png',
