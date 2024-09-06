@@ -2,6 +2,7 @@
 title: 视觉组招新章程
 createTime: 2024/09/05 20:12:04
 permalink:  /recruit/vision/ 
+icon: material-symbols:camera-outline
 ---
 
 # 视觉组招新章程

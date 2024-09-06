@@ -2,6 +2,7 @@
 title: 基本信息
 createTime: 2024/09/05 23:05:27
 permalink: /about/intro/
+icon: material-symbols:star-outline
 ---
 # 基本信息
 
