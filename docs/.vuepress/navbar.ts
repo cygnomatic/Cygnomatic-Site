@@ -9,6 +9,7 @@ export const navbar = defineNavbarConfig([
       { text: '机械组（结构组）', link: '/notes/recruit/mecha', icon: 'f7:wrench' },
       { text: '电控组（嵌入式组）', link: '/notes/recruit/embed', icon: 'ph:cpu' },
       { text: '视觉组（算法组）', link: '/notes/recruit/vision', icon: 'material-symbols:camera-outline' },
+      { text: '硬件组（电路组）', link: '/notes/recruit/circuit', icon: 'tabler:circuit-diode' },
     ]
   },
 ])

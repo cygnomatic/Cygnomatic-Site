@@ -9,5 +9,5 @@ icon: mdi:text
 - [机械组（结构组）](/recruit/mecha/)
 - [电控组（嵌入式组）](/recruit/embed/)
 - [视觉组（算法组）](/recruit/vision/)
-- 硬件组
+- [硬件组（电路组）](/recruit/circuit/)
 - 运营组
