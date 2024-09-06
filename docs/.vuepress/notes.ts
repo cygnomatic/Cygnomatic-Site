@@ -25,6 +25,7 @@ export const note = defineNoteConfig({
         'mecha.md',
         'embed.md',
         'vision.md',
+        'circuit.md',
       ],
     },
   ],
