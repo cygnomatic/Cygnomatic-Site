@@ -71,5 +71,7 @@ config:
 
 ## 了解更多
 
-- 了解我们的[分组](/about/intro/)
-- 或者[加入我们](/recruit/)
+<CardGrid>
+  <LinkCard title="加入招新群" icon="material-symbols:chat-outline" href="https://qm.qq.com/q/ZlQDS8UESc" >加入 QQ 群一起摆龙门阵！</LinkCard>
+  <LinkCard title="加入我们" icon="iconamoon:enter" href="/recruit/" >阅读 2025 赛季招新章程。</LinkCard>
+</CardGrid>
