@@ -8,6 +8,10 @@ export default defineUserConfig({
   title: 'Cygnomatic',
   description: '逐雁创新机器人实验室',
 
+  head: [
+    ['link', { rel: 'icon', href: '/cyg_favicon.svg', sizes: 'any', type: 'image/svg+xml' }]
+  ],
+
   bundler: viteBundler(),
 
   theme: plumeTheme({
