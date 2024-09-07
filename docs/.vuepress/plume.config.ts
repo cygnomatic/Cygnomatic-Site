@@ -12,7 +12,6 @@ export default defineThemeConfig({
   contributors: false,
 
   profile: {
-    avatar: 'https://theme-plume.vuejs.press/plume.png',
     name: 'Cygnomatic',
     description: '逐雁创新机器人实验室',
     // circle: true,
