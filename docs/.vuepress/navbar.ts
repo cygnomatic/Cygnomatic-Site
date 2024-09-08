@@ -10,4 +10,8 @@ export const navbar = defineNavbarConfig([
     text: '加入我们',
     link: '/recruit/',
   },
+  {
+    text: '常见问题',
+    link: '/faq/',
+  }
 ])
