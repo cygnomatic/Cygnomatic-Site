@@ -41,6 +41,6 @@ icon: f7:wrench
 
 ## 常见问题
 
-1. ==如何安装或配置 Solidworks？==
-
-    请参考[这页](https://cygnomatic.feishu.cn/wiki/UJQSwszP6i2Ks9k8XdpcuSRBnbb)机械组内部培训资料（暂时公开）。
+<LinkCard title="机械组 FAQ" icon="ph:question" href="https://cygnomatic.feishu.cn/sheets/Q7EUsFNjFhtXzWt9o5fcJZKAnCb?sheet=TWEhB3">
+跳转至飞书云文档查看
+</LinkCard>

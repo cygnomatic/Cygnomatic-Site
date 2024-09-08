@@ -87,23 +87,6 @@ icon: material-symbols:camera-outline
 
 ## 常见问题
 
-1. ==没有基础能加入你们吗？==
-
-   可以的！我们的梯队面向全体大一大二同学招新，我们会为梯队成员提供一套由数个小项目构成的内部培训资料，包含从~~砍树到打末影龙~~语言基础到机器视觉入门的的整个流程。我们相信您会认为这些项目非常有趣的！
-
-   ![梯队培训材料](https://s2.loli.net/2024/09/07/W9njCzIZ3Fkg1w8.jpg)
-   
-   我们会定期发布这个项目，并设置提交截止日期，推动您完成它。若您在期限内提交，我们会根据给予反馈。若您顺利完成学习，那么在寒假之后，您的能力完全足以加入我们！我们也会在您完成学习后与您联系，邀请您来加入我们的备赛任务。
-   
-2. ==没有基础能成为正式成员吗？==
-
-   您不需要有机器人相关的经验也可以成为今年的正式成员。不过我们期待正式成员至少有一定的编程基础，否则我们更加推荐您先加入我们的梯队，代有一定基础后下赛季转正式成员。
-
-3. ==我有丰富的相关经验，不想参加笔试 / 面试 / 培训，想把时间跟多用于备赛，可以直接入队吗？==
-
-   当然。请按照正式成员提交要求，提交您的简历与一份空的笔试题目。我们会单独联系您。
-
-4. ==在你们联系我之前，我想自学一些内容？能给我一些方向吗？==
-
-   如果你期望成为正式成员，不妨阅读一下湖南大学跃鹿战队编写的 [《了解CV和RoboMaster视觉组》](https://github.com/NeoZng/vision_tutorial/releases/download/v1.2.0/An.introduction.to.CV.and.RoboMaster.Perception.pdf)；如果您期望成为梯队成员，不妨学习一下 [CS61A](https://csdiy.wiki/%E7%BC%96%E7%A8%8B%E5%85%A5%E9%97%A8/Python/CS61A/)。
-
+<LinkCard title="视觉组 FAQ" icon="ph:question" href="https://cygnomatic.feishu.cn/sheets/Q7EUsFNjFhtXzWt9o5fcJZKAnCb?sheet=qf8pyK">
+跳转至飞书云文档查看
+</LinkCard>
