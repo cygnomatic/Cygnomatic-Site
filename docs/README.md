@@ -20,6 +20,10 @@ config:
           theme: alt
           text: 了解更多
           link: /#团队简介
+        - 
+          theme: alt
+          text: 报名入口汇总（临时）
+          link: /signup-entry/
   -
     type: features
     features:
