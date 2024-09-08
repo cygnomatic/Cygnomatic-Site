@@ -35,12 +35,19 @@ icon: f7:wrench
 
 25 赛季机械组（结构组）现招收 2025 赛季==正式成员==。
 
-- ==申请材料== 简历
-- ==截止时间== 第一批 09/12 左右
-- ==提交方式== 填写飞书招新表单（待放出）
-
 ## 常见问题
 
 <LinkCard title="机械组 FAQ" icon="ph:question" href="https://cygnomatic.feishu.cn/sheets/Q7EUsFNjFhtXzWt9o5fcJZKAnCb?sheet=TWEhB3">
 跳转至飞书云文档查看
 </LinkCard>
+
+## 申请报名
+
+- ==申请材料== 无
+- ==截止时间== 09/15 中午 12:00
+
+<LinkCard title="提交申请" icon="ph:hand" href="https://cygnomatic.feishu.cn/share/base/form/shrcndb5JmCFx2Lv7pC6gOn6tDb">
+填写飞书表单。在表单中提交您的个人信息。
+</LinkCard>
+
+我们会在 09/21 号左右（待定）公布使用==邮件==（`recruit@cygnomatic.net`）的方式进行结果通知，并提供进入面试阶段的同学（仅正式成员）选择面试时间的链接。请注意查看邮箱。
