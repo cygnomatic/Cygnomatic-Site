@@ -19,5 +19,5 @@ icon: mdi:text
     <LinkCard title="电控组（嵌入式组）" href="/recruit/embed/" icon="ph:cpu">电控组成员的首要任务便是让机器人“动”起来。</LinkCard>
     <LinkCard title="视觉组（算法组）" href="/recruit/vision/" icon="material-symbols:camera-outline">视觉和算法是机器人的眼睛和大脑，在赛场上则是锁头透视的外挂！</LinkCard>
     <LinkCard title="硬件组（电路组）" href="/recruit/circuit/" icon="tabler:circuit-diode">硬件组主要负责机器人所用电路板的设计、打样、焊接、调试以及检测和维修~</LinkCard>
-    <LinkCard title="运营组" href="/recruit/" icon="mdi:color">运营组还在摸鱼，招新章程还没写（</LinkCard>
+    <LinkCard title="运营组" href="/recruit/operat/" icon="mdi:color">运营组负责战队的日常运营宣传、内外事务协调等重要事项。</LinkCard>
 </CardGrid>
