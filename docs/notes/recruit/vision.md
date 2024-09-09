@@ -83,7 +83,7 @@ icon: material-symbols:camera-outline
 
 - ==申请材料== 申请正式成员提交简历+笔试题答案；申请梯队成员提交简历
 - ==截止时间== 09/19 中午 12:00
-- ==文件下载== 点击查看 [笔试题](https://cygnomatic.feishu.cn/file/SqmdbfS9so3ctyxqXImcFuEvn1d)（尚未放出，09/09 放出）和 [简历模板](https://cygnomatic.feishu.cn/file/TCFybSONMoYCarx3HDTcmD0Kn5e)。请下载后填写。
+- ==文件下载== 点击查看 [笔试题](https://cygnomatic.feishu.cn/file/SqmdbfS9so3ctyxqXImcFuEvn1d) 和 [简历模板](https://cygnomatic.feishu.cn/file/TCFybSONMoYCarx3HDTcmD0Kn5e)。请下载后填写。
 
 <LinkCard title="提交申请" icon="ph:hand" href="https://cygnomatic.feishu.cn/share/base/form/shrcnEhmqWHHPOcVTICayzScDDg">
 填写飞书表单。在表单中提交您的简历/简历+笔试答案。
