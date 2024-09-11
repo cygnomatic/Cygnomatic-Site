@@ -69,7 +69,7 @@ config:
 团队全力备战 RoboMaster 机甲大师赛。[RoboMaster 机甲大师高校系列赛](https://www.robomaster.com/zh-CN)（RMU, RoboMaster University Series），与 RoboCon，RoboTech 共同组成==全国大学生机器人大赛==，属==北邮 S 类竞赛==。RoboMaster 大赛是专为全球科技爱好者打造的机器人竞技与学术交流平台，也是目前最具挑战性、对抗性的机器人大赛之一。
 
 *（赛事混剪）*
-@[bilibili autoplay](BV1RE4m1X7Yw)
+@[bilibili](BV1RE4m1X7Yw)
 
 *（官方宣传视频）*
 @[bilibili](BV1QU411m795)
