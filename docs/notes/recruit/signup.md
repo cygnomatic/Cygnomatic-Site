@@ -17,7 +17,7 @@ permalink: /signup-entry/
 
 :::tip
 如果想要获取招新宣讲幻灯片，点击这里下载
-<a herf="https://github.com/Cygnomatic/Cygnomatic-Site/blob/main/docs/%E5%8C%97%E4%BA%AC%E9%82%AE%E7%94%B5%E5%A4%A7%E5%AD%A6%E9%80%90%E9%9B%81%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%88%9B%E6%96%B0%E5%AE%9E%E9%AA%8C%E5%AE%A4%E6%8B%9B%E6%96%B0%E5%AE%A3%E8%AE%B22025.pdf" dowload>招新宣讲会PPT</a>
+<a herf="https://github.com/Cygnomatic/Cygnomatic-Site/blob/main/docs/%E5%8C%97%E4%BA%AC%E9%82%AE%E7%94%B5%E5%A4%A7%E5%AD%A6%E9%80%90%E9%9B%81%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%88%9B%E6%96%B0%E5%AE%9E%E9%AA%8C%E5%AE%A4%E6%8B%9B%E6%96%B0%E5%AE%A3%E8%AE%B22025.pdf" download>招新宣讲会PPT</a>
 :::
 <CardGrid>
     <LinkCard title="2025赛季招新宣讲视频" href="https://cygnomatic.feishu.cn/docx/OAyUdbz3WonzHEx6wlLc45Nyn1f?from=from_copylink" icon="f7:wrench">视频涵盖哲学四问：我们是谁，我们要做什么，我们要怎么做，我们要去何方。</LinkCard>
