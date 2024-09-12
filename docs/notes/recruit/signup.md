@@ -11,3 +11,6 @@ permalink: /signup-entry/
 - [视觉组](/recruit/vision/#%E7%94%B3%E8%AF%B7%E6%8A%A5%E5%90%8D)
 - [硬件组](/recruit/circuit/#%E7%94%B3%E8%AF%B7%E6%8A%A5%E5%90%8D)
 - [运营组](/recruit/operat/#%E7%94%B3%E8%AF%B7%E6%8A%A5%E5%90%8D)
+
+# 2025赛季招新宣讲视频
+[点击查看](https://cygnomatic.feishu.cn/docx/OAyUdbz3WonzHEx6wlLc45Nyn1f?from=from_copylink)
