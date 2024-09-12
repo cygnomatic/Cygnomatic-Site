@@ -16,7 +16,8 @@ permalink: /signup-entry/
 如果你犹豫不决，不知道选择什么组别，不妨优先观看==招新宣讲会==。
 
 :::tip
-如果想要获取招新宣讲幻灯片，点击这里下载[招新宣讲会PPT](https://raw.githubusercontent.com/Cygnomatic/Cygnomatic-Site/main/docs/北京邮电大学逐雁机器人创新实验室招新宣讲2025.pdf)
+如果想要获取招新宣讲幻灯片，点击这里下载[招新宣讲会PPT](https://raw.githubusercontent.com/Cygnomatic/Cygnomatic-Site/main/docs/北京邮电大学逐雁机器人创新实验室招新宣讲2025.pdf)。
+
 右键另存为，可将PPT保存至合理的位置。
 :::
 <CardGrid>
