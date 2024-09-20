@@ -13,4 +13,4 @@ icon: material-symbols:add-location-alt-outline
 
 沙河校区实验室位于NS两栋教学楼中间的地下，具体位置太难描述了，故在此放了个图，就是那个方形的大房间和旁边的几个小房间（~~希望聪明的各位能看出图里面是哪hhh~~）
 
-![shahe.jpg](https://i.postimg.cc/63t4703W/20240920-121042.jpg)
+![shahe.jpg](https://s2.loli.net/2024/09/20/R4PLry1W9NhBbeK.jpg)
