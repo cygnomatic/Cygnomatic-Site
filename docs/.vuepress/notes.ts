@@ -13,6 +13,7 @@ export const note = defineNoteConfig({
         'intro.md',
         'honors.md',
         'team.md',
+        'location.md',
       ],
     },
     {
