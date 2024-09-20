@@ -13,9 +13,5 @@ export const navbar = defineNavbarConfig([
   {
     text: '常见问题',
     link: '/faq/',
-  },
-  {
-    text: '实验室地址',
-    link: '/about/location/',
   }
 ])
