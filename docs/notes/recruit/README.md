@@ -6,18 +6,15 @@ icon: mdi:text
 ---
 
 :::warning
-在加入我们之前，请花些时间明白以下内容：一个明确而富有洞察力的问题不仅能引导讨论的方向，还能揭示潜在的解决方案。无论是在团队合作还是日常生活中，**礼貌、聪明、清晰**地提出问题的能力是我们十分欣赏的地方。
-
-如果你认为你还不理解以上内容，请先阅读[提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)，相信这篇文章会帮助你很多。
+截止到 09/22，**逐雁战队 2025 赛季（24 年秋至 25 年夏）大规模招新已结束，报名飞书表单已关闭**；特殊招新通道仍然开放，若有意向加入，欢迎进入招新 QQ 群与我们联系。
 :::
 
 欢迎大家加入鸿雁（逐雁）机器人创新机器人实验室！  
 我们的团队主要分为四个==技术组==以及一个==运营组==。  
 
 :::tip
-原则上一个成员只能加入一个技术组。  
-不知道应该去哪个组？[分组介绍](/about/intro/)  
-想更多地了解我们？不妨阅读一下 [团队简介](/#团队简介)！
+原则上一个成员只能加入一个技术组。不知道应该去哪个组？[分组介绍](/about/intro/)  
+想更多地了解我们？不妨观看 [宣讲视频](https://cygnomatic.feishu.cn/docx/OAyUdbz3WonzHEx6wlLc45Nyn1f)！
 :::
 
 <CardGrid>
@@ -26,14 +23,4 @@ icon: mdi:text
     <LinkCard title="视觉组（算法组）" href="/recruit/vision/" icon="material-symbols:camera-outline">视觉和算法是机器人的眼睛和大脑，在赛场上则是锁头透视的外挂！</LinkCard>
     <LinkCard title="硬件组（电路组）" href="/recruit/circuit/" icon="tabler:circuit-diode">硬件组主要负责机器人所用电路板的设计、打样、焊接、调试以及检测和维修~</LinkCard>
     <LinkCard title="运营组" href="/recruit/operat/" icon="mdi:color">运营组负责战队的日常运营宣传、内外事务协调等重要事项。</LinkCard>
-</CardGrid>
-
-如果你想更好的了解我们团队和参与的赛事，不妨优先观看==招新宣讲会==。
-
-:::tip
-如果想要获取招新宣讲幻灯片，点击这里下载
-[招新宣讲会PPT](https://raw.githubusercontent.com/Cygnomatic/Cygnomatic-Site/main/docs/北京邮电大学逐雁机器人创新实验室招新宣讲2025.pdf)
-:::
-<CardGrid>
-    <LinkCard title="2025赛季招新宣讲视频" href="https://cygnomatic.feishu.cn/docx/OAyUdbz3WonzHEx6wlLc45Nyn1f?from=from_copylink" icon="f7:wrench">视频涵盖哲学四问：我们是谁，我们要做什么，我们要怎么做，我们要去何方。</LinkCard>
 </CardGrid>
