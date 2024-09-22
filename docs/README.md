@@ -9,8 +9,8 @@ config:
     background: tint-plate
     hero:
       name: CYGNOMATIC.
-      tagline: 鸿雁机器人创新实验室
-      text: (逐雁创新机器人实验室)
+      tagline: 逐雁创新机器人实验室
+      text: (原鸿雁机器人创新实验室)
       actions:
         -
           theme: brand
