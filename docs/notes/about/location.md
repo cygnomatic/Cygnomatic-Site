@@ -1,6 +1,6 @@
 ---
 title: 实验室地址
-createTime: 2024/09/20 12:16:50
+createTime: 2025/09/07 12:16:50
 permalink: /about/location/
 icon: material-symbols:add-location-alt-outline
 ---
