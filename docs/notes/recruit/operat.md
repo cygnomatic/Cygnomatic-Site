@@ -35,6 +35,14 @@ RoboMaster 作为一项综合性全国赛事，不仅对于每个队伍提出了
 3. 会使用PS的基本功能，会用PS设计海报/易拉宝等。
 4. 有相关设计竞赛获奖等证明你的设计能力；
 
+
+## 常见问题
+
+<LinkCard title="运营组 FAQ" icon="ph:question" href="https://cygnomatic.feishu.cn/wiki/NsPHwrSd5iQ4hyk5bEZcWE6Enzc?sheet=M18ng2">
+跳转至飞书云文档查看
+</LinkCard>
+
+
 ## 申请报名
 
 - ==申请材料== 无

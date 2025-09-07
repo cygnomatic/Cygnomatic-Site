@@ -15,6 +15,6 @@ permalink: /faq/
 表格中 `Ctrl+F` 可以启用搜索功能。
 :::
 
-<LinkCard title="常见问题及解答 FAQ" icon="ph:question" href="https://cygnomatic.feishu.cn/sheets/Q7EUsFNjFhtXzWt9o5fcJZKAnCb">
+<LinkCard title="常见问题及解答 FAQ" icon="ph:question" href="https://cygnomatic.feishu.cn/wiki/NsPHwrSd5iQ4hyk5bEZcWE6Enzc25">
 跳转至飞书云文档查看
 </LinkCard>

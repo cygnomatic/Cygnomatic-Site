@@ -1,6 +1,6 @@
 ---
 title: 视觉组招新章程
-createTime: 2025/09/05 20:12:04
+createTime: 2025/09/08 03:43:59
 permalink:  /recruit/vision/ 
 icon: material-symbols:camera-outline
 ---
@@ -39,14 +39,14 @@ icon: material-symbols:camera-outline
 
 ## 招新流程
 
-25 赛季视觉组（算法组）现招收 2025 赛季==正式成员==和==梯队成员==。
+26 赛季视觉组（算法组）现招收 2026 赛季==正式成员==和==梯队成员==。
 
-- ==正式成员== 将以备赛为主，需要一定基础。作为队员参加 2025 赛季 RoboMaster 全国大学生机器人大赛，获取获奖证书。培训形式为线下集训+老带新。**需要提交开卷笔试和简历**，欢迎本各个年级同学报名。
-- ==梯队成员== 将以线上学习为主，零基础要求。作为梯队成员参与 2025 赛季备赛，获取梯队证书。表现优异者作为正式成员参加 2026 赛季 RoboMaster 全国大学生机器人大赛。培训形式以线上自学+周期性线下集会（提供内部培训材料）。**仅需要提交简历**。仅招收**本科大一大二学生**。
+- ==正式成员== 将以备赛为主，需要一定基础。作为队员参加 2026 赛季 RoboMaster 全国大学生机器人大赛，获取获奖证书。培训形式为线下集训+老带新。**需要提交开卷笔试和简历**，欢迎本各个年级同学报名。
+- ==梯队成员== 将以线上学习为主，零基础要求。作为梯队成员参与 2026 赛季备赛，获取梯队证书。表现优异者作为正式成员参加 2026 赛季 RoboMaster 全国大学生机器人大赛。培训形式以线上自学+周期性线下集会（提供内部培训材料）。**仅需要提交简历**。仅招收**本科大一大二学生**。
 
 ### 正式成员
 
-正式成员作为队员参加 2025 赛季 RoboMaster 全国大学生机器人大赛，获取获奖证书。流程采用 **开卷笔试+面试+培训+考核+试用** 的形式。
+正式成员作为队员参加 2026 赛季 RoboMaster 全国大学生机器人大赛，获取获奖证书。流程采用 **开卷笔试+面试+培训+考核+试用** 的形式。
 
 | 项目              | 时间                  |
 | ----------------- | --------------------- |
@@ -61,7 +61,7 @@ icon: material-symbols:camera-outline
 
 ### 梯队成员
 
-梯队成员作为梯队成员参与 2025 赛季备赛，获取梯队证书。表现优异者作为正式成员参加 2026 赛季 RoboMaster 全国大学生机器人大赛。主要面向零基础的同学，以线上学习为主。
+梯队成员作为梯队成员参与 2026 赛季备赛，获取梯队证书。表现优异者作为正式成员参加 2026 赛季 RoboMaster 全国大学生机器人大赛。主要面向零基础的同学，以线上学习为主。
 
 | 项目             | 时间        |
 | ---------------- | ----------- |
@@ -73,7 +73,7 @@ icon: material-symbols:camera-outline
 
 ## 常见问题
 
-<LinkCard title="视觉组 FAQ" icon="ph:question" href="https://cygnomatic.feishu.cn/sheets/Q7EUsFNjFhtXzWt9o5fcJZKAnCb?sheet=qf8pyK">
+<LinkCard title="视觉组 FAQ" icon="ph:question" href="https://cygnomatic.feishu.cn/wiki/NsPHwrSd5iQ4hyk5bEZcWE6Enzc?sheet=qf8pyK">
 跳转至飞书云文档查看
 </LinkCard>
 
@@ -81,10 +81,10 @@ icon: material-symbols:camera-outline
 
 - ==申请材料== 申请正式成员提交简历+笔试题答案；申请梯队成员提交简历
 - ==截止时间== 09/19 中午 12:00
-- ==文件下载== 点击查看 [笔试题](/recruit/vision/exam/) 和 [简历模板](https://cygnomatic.feishu.cn/file/TCFybSONMoYCarx3HDTcmD0Kn5e)。请下载后填写。
+- ==文件下载== 点击查看 [笔试题](/recruit/vision/exam/) 和 [简历模板](https://raw.githubusercontent.com/Cygnomatic/Cygnomatic-Site/main/docs/视觉组简历模板.docx)。请下载后填写。
 
-<!-- <LinkCard title="提交申请" icon="ph:hand" href="https://cygnomatic.feishu.cn/share/base/form/shrcnEhmqWHHPOcVTICayzScDDg">
-填写飞书表单。在表单中提交您的简历/简历+笔试答案。
+<!-- <LinkCard title="提交申请" icon="ph:hand" href="https://cygnomatic.feishu.cn/share/base/form/shrcnG7fRXdAO2mcbnGnD7mZZQh">
+填写飞书表单。在表单中提交您的仓库地址。
 </LinkCard> -->
 
 

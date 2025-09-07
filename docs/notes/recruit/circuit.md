@@ -79,7 +79,7 @@ icon: tabler:circuit-diode
 
 ## 常见问题
 
-<LinkCard title="硬件组 FAQ" icon="ph:question" href="https://cygnomatic.feishu.cn/sheets/Q7EUsFNjFhtXzWt9o5fcJZKAnCb?sheet=41ablE">
+<LinkCard title="硬件组 FAQ" icon="ph:question" href="https://cygnomatic.feishu.cn/wiki/NsPHwrSd5iQ4hyk5bEZcWE6Enzc?sheet=41ablE">
 跳转至飞书云文档查看
 </LinkCard>
 
@@ -92,8 +92,5 @@ icon: tabler:circuit-diode
 填写飞书表单。在表单中提交您的个人信息。
 </LinkCard> -->
 
-:::warning 报名通道关闭
-截止到 09/22，**逐雁战队 2025 赛季（24 年秋至 25 年夏）大规模招新已结束，报名飞书表单已关闭**；直接入队通道仍然开放，若有意向加入，欢迎进入招新 QQ 群与我们联系。
-:::
 
 我们会在 09/?? 号左右（待定）公布使用==邮件==（`circuit@cygnomatic.net`）的方式进行结果通知，并提供进入面试阶段的同学（仅正式成员）选择面试时间的链接。请注意查看邮箱。

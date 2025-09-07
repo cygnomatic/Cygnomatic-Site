@@ -76,7 +76,7 @@ icon: ph:cpu
 
 ### 梯队成员
 
-梯队成员作为梯队成员参与 2025 赛季备赛，获取梯队证书。表现优异者作为正式成员参加 2026 赛季 RoboMaster 全国大学生机器人大赛。主要面向零基础的同学，以线上学习为主。
+梯队成员作为梯队成员参与 2026 赛季备赛，获取梯队证书。表现优异者作为正式成员参加 2026 赛季 RoboMaster 全国大学生机器人大赛。主要面向零基础的同学，以线上学习为主。
 
 | 项目             | 时间                         |
 | ---------------- | ---------------------------- |
@@ -88,7 +88,7 @@ icon: ph:cpu
 
 ## 常见问题
 
-<LinkCard title="电控组 FAQ" icon="ph:question" href="https://cygnomatic.feishu.cn/sheets/Q7EUsFNjFhtXzWt9o5fcJZKAnCb?sheet=h61p3y">
+<LinkCard title="电控组 FAQ" icon="ph:question" href="https://cygnomatic.feishu.cn/wiki/NsPHwrSd5iQ4hyk5bEZcWE6Enzc?sheet=h61p3y">
 跳转至飞书云文档查看
 </LinkCard>
 
@@ -100,9 +100,5 @@ icon: ph:cpu
 <!-- <LinkCard title="提交申请" icon="ph:hand" href="https://cygnomatic.feishu.cn/share/base/form/shrcncmiqDfeUoq0R55sMT2Mojf">
 填写飞书表单。在表单中提交您的个人信息。
 </LinkCard> -->
-
-:::warning 报名通道关闭
-截止到 09/22，**逐雁战队 2025 赛季（24 年秋至 25 年夏）大规模招新已结束，报名飞书表单已关闭**；直接入队通道仍然开放，若有意向加入，欢迎进入招新 QQ 群与我们联系。
-:::
 
 我们会在 09/16 号左右公布使用==邮件==（`recruit@cygnomatic.net`）的方式进行结果结果，并提供进入面试阶段的同学选择面试时间的链接。请注意查看邮箱。
