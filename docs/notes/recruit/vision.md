@@ -53,11 +53,11 @@ icon: material-symbols:camera-outline
 | 招新推送          | 09/06                 |
 | 笔试题放出          | 09/09 中午12:00                |
 | 笔试&简历提交截止 | 09/16 中午12:00           |
-| 进入面试阶段通知              | 09/17     |
-| 面试              | 09/18 - 09/19     |
-| 培训          | 09/20 - 09/21; 9/27 - 9/28 ;10/1 - 10/7  |
-| 试用期  | 10月中旬 - 11月中旬（一个月） |
-| 正式成员入队仪式  | 11月（待定）          |
+| 进入面试阶段通知              | wait |
+| 面试             | wait |
+| 培训          | wait |
+| 试用期  | wait            |
+| 正式成员入队仪式 | wait            |
 
 ### 梯队成员
 
@@ -67,7 +67,7 @@ icon: material-symbols:camera-outline
 | ---------------- | ----------- |
 | 招新推送         | 09/06       |
 | 简历提交截止     | 09/16 中午12:00 |
-| 梯队候选人名单通知              | 09/18 - 09/19     |
+| 梯队候选人名单通知              | wait |
 | 线上自学         | 寒假前      |
 | 参与少量备赛任务 | 寒假后      |
 
@@ -84,7 +84,7 @@ icon: material-symbols:camera-outline
 - ==文件下载== 点击查看 [笔试题](/recruit/vision/exam/) 和 [简历模板](https://raw.githubusercontent.com/Cygnomatic/Cygnomatic-Site/main/docs/视觉组简历模板.docx)。请下载后填写。
 
 <!-- <LinkCard title="提交申请" icon="ph:hand" href="https://cygnomatic.feishu.cn/share/base/form/shrcnG7fRXdAO2mcbnGnD7mZZQh">
-填写飞书表单。在表单中提交您的仓库地址。
+填写飞书表单。并在表单中提交您的仓库地址。
 </LinkCard> -->
 
 

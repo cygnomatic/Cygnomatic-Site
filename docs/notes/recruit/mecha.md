@@ -3,6 +3,7 @@ title: 机械组招新章程
 createTime: 2025/09/06 08:12:04
 permalink:  /recruit/mecha/ 
 icon: f7:wrench
+
 ---
 
 # 2026赛季逐雁机械组招新章程
@@ -37,18 +38,12 @@ icon: f7:wrench
 
 ## 常见问题
 
-<LinkCard title="机械组 FAQ" icon="ph:question" href="https://cygnomatic.feishu.cn/wiki/NsPHwrSd5iQ4hyk5bEZcWE6Enzc?sheet=TWEhB3">
-跳转至飞书云文档查看
-</LinkCard>
+详情请见QQ大群中的Q&A，若有问题请在大群中提出。
 
 ## 申请报名
 
 - ==申请材料== 无
-- ==截止时间== 09/15 中午 12:00
-
-<!-- <LinkCard title="提交申请" icon="ph:hand" href="https://cygnomatic.feishu.cn/share/base/form/shrcndb5JmCFx2Lv7pC6gOn6tDb">
-填写飞书表单。在表单中提交您的个人信息。
-</LinkCard> -->
+- ==截止时间== 09/11晚上18:00
 
 
-我们会在 09/15 号左右（待定）公布使用==邮件==（`recruit@cygnomatic.net`）的方式进行结果通知，并提供进入面试阶段的同学（仅正式成员）选择面试时间的链接。请注意查看邮箱。
+我们会在 09/11号左右（待定）公布使用==邮件==（`recruit@cygnomatic.net`）的方式进行结果通知，并提供进入面试阶段的同学（仅正式成员）选择面试时间的链接。请注意查看邮箱。
