@@ -80,12 +80,16 @@ icon: material-symbols:camera-outline
 ## 申请报名
 
 - ==申请材料== 申请正式成员提交简历+笔试题答案；申请梯队成员提交简历
-- ==截止时间== 09/19 中午 12:00
+- ==截止时间== 09/16 中午 12:00
 - ==文件下载== 点击查看 [笔试题](/recruit/vision/exam/) 和 [简历模板](https://raw.githubusercontent.com/Cygnomatic/Cygnomatic-Site/main/docs/视觉组简历模板.docx)。请下载后填写。
 
-<!-- <LinkCard title="提交申请" icon="ph:hand" href="https://cygnomatic.feishu.cn/share/base/form/shrcnG7fRXdAO2mcbnGnD7mZZQh">
-填写飞书表单。并在表单中提交您的仓库地址。
-</LinkCard> -->
+**认真写简历！！！**
+
+**切记！！！**
+
+<LinkCard title="提交申请" icon="ph:hand" href="https://cygnomatic.feishu.cn/share/base/form/shrcnG7fRXdAO2mcbnGnD7mZZQh">
+填写飞书表单。并在表单中选择你的作答题目难度与您的仓库地址。
+</LinkCard>
 
 
-我们会在 09/17 号公布使用==邮件==（`vision@cygnomatic.net`）的方式进行结果通知，并提供进入面试阶段的同学（仅正式成员）选择面试时间的链接。请注意查看邮箱。
+我们会在看完你们的简历和作答情况后，使用==邮件==（`vision@cygnomatic.net`）的方式进行结果通知，并提供进入面试阶段的同学（仅正式成员）选择面试时间的链接。请注意查看邮箱。
