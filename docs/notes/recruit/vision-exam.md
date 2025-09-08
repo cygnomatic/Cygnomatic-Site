@@ -25,7 +25,7 @@ icon: material-symbols:assignment
 
 我们期待看到你清晰的逻辑、规范的代码和强大的学习潜力。
 
-➡️ **[点击这里，开始你的挑战](/recruit/vision/exam/easy)**
+➡️ **[点击这里，开始你的挑战](/recruit/vision/exam/easy/)**
 
 ---
 
@@ -37,7 +37,7 @@ icon: material-symbols:assignment
 
 我们期待看到你卓越的工程设计、严谨的解决方案和对技术深度的不懈追求。
 
-➡️ **[点击这里，开始你的挑战](/recruit/vision/exam/hard)**
+➡️ **[点击这里，开始你的挑战](/recruit/vision/exam/hard/)**
 
 ---
 
