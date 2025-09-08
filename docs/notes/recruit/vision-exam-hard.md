@@ -105,7 +105,7 @@ icon: material-symbols:assignment
     
     * **任务:** 编写一个脚本，使用**生成器 (Generator)** 来逐行读取并分析一个大型日志文件。脚本需要能在常数级内存消耗下，统计出包含关键词“ERROR”的日志条目数量。
     
-    * **测试:**我将提供一个1GB的log文件给你，你需要用这个文件对你的程序进行测试。
+    * **测试:** 我将提供一个1GB的log文件给你，你需要用这个文件对你的程序进行测试。
     
       [下载地址](https://raw.githubusercontent.com/Cygnomatic/Cygnomatic-Site/main/docs/robot.zip)
 
