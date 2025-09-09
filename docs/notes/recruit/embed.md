@@ -88,8 +88,7 @@ icon: ph:cpu
 
 ## 申请报名
 
-- ==申请材料== 
-- ==截止时间== 09/14 上午 6:00
+- 截止时间 09/14 上午 6:00
 
 <!-- <LinkCard title="提交申请" icon="ph:hand" href="https://forms.office.com/r/TmtVa53rE2">
 在表单中提交您的个人信息即报名成功。
