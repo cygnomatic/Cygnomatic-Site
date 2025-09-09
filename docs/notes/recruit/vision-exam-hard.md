@@ -124,14 +124,14 @@ icon: material-symbols:assignment
 **任务：实现A*路径规划算法**
 
 1. **场景描述:**
-   在一个由二维栅格地图表示的环境中，一个机器人需要从起点（Start）移动到终点（Goal）。地图中包含无法通行的障碍物（Obstacles）。
+   在一个由二维栅格地图表示的环境中，一个机器人需要从起点（Start）移动到终点（Goal），只能直行，一次走一格。地图中包含无法通行的障碍物（Obstacles）。
 
 2. **实现要求:**
 
    * **任务:** 你的程序必须可以通过命令行接收参数，格式为：`./your_program_name <map_file_path> <start_x> <start_y> <goal_x> <goal_y>`。
 
    * **正式测试文件 `map.txt` 内容:**
-     请在你的项目中创建 `map.txt` 文件，并使用以下内容：
+     请在你的项目中创建 `map.txt` 文件，并使用以下内容：（1为障碍物）如不能通行，需要输出“I can’t go to the postion (x,y).”（x,y为你输入的goal_x和goal_y）
 
      ```
      0 0 1 0 0
