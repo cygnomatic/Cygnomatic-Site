@@ -38,7 +38,9 @@ icon: f7:wrench
 
 ## 常见问题
 
-详情请见QQ大群中的Q&A，若有问题请在大群中提出。
+<LinkCard title="机械组 FAQ" icon="ph:question" href="https://cygnomatic.feishu.cn/wiki/NsPHwrSd5iQ4hyk5bEZcWE6Enzc?sheet=TWEhB3">
+跳转至飞书云文档查看
+</LinkCard>
 
 ## 申请报名
 

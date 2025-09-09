@@ -85,6 +85,8 @@ icon: material-symbols:camera-outline
 
 **认真写简历！！！**
 
+**很重要！！！**
+
 **切记！！！**
 
 <LinkCard title="提交申请" icon="ph:hand" href="https://cygnomatic.feishu.cn/share/base/form/shrcnG7fRXdAO2mcbnGnD7mZZQh">
