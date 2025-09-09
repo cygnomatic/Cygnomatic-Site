@@ -27,5 +27,5 @@ icon: mdi:text
 
 <CardGrid>
   <LinkCard title="加入招新群" icon="material-symbols:chat-outline" href="https://qm.qq.com/q/Sf2SJx4aCm" >加入 QQ 群一起摆龙门阵！</LinkCard>
-  <LinkCard title="观看招新宣讲" icon="mingcute:video-line" href="https://cygnomatic.feishu.cn/docx/OAyUdbz3WonzHEx6wlLc45Nyn1f" >观看宣讲视频录屏。</LinkCard>
+  <LinkCard title="观看招新宣讲" icon="mingcute:video-line" href="https://cygnomatic.feishu.cn/wiki/BIP9wGSTRiaKGxkUX3zcBUujnog" >观看宣讲视频。</LinkCard>
 </CardGrid>
