@@ -167,27 +167,29 @@ icon: material-symbols:assignment
 
 **实现:**
 
-*   **输入:** 一张包含红色物体的静态图片。
+*   **输入:** 请使用我们提供的标准测试图片 `test_red_armor.jpg`。[下载地址](https://raw.githubusercontent.com/Cygnomatic/Cygnomatic-Site/main/docs/test_red_armor.jpg)
+
 *   **参考流程:**
     1.  使用OpenCV加载图片。
     2.  将图片从BGR色彩空间转换到HSV色彩空间。
     3.  设定红色的HSV阈值范围，生成一个只包含红色区域的二值化掩码（Mask）。
     4.  显示原始图片和提取出的红色区域掩码。
 *   **任务:** 编写一个程序，接收一个**命令行参数**作为图片路径，加载图片，设定红色的HSV阈值范围，最后显示原始图和处理后的二值化掩码图。
-*   **测试要求:** 由于该任务需要显示窗口，学长学姐会手动运行你的程序进行验证，请在`README.md`中写明运行命令，例如：`./your_program_name path/to/your/test_image.jpg`。你的`test.sh`脚本可以包含这个示例命令。
+*   **测试要求:** 由于该任务需要显示窗口，学长学姐会手动运行你的程序进行验证，请在`README.md`中写明运行命令，例如：`./your_program_name path/to/your/test_red_armor.jpg`。你的`test.sh`脚本可以包含这个示例命令。
 
 **任务二：定位能量机关（ROI与形状检测）**
 
 **实现:**
 
-*   **输入:** 一张能量机关的简化模拟图（例如，白纸上画一个黑色实心圆）。
+*   **输入:** 请使用我们提供的能量机关模拟图 `test_rune.png`。[下载地址](https://raw.githubusercontent.com/Cygnomatic/Cygnomatic-Site/main/docs/test_rune.png)
+
 *   **参考流程:**
     1.  加载图片并进行灰度化和二值化处理。
     2.  使用OpenCV的 `findContours` 函数来寻找图中的所有轮廓。
     3.  通过一些简单的几何判断（例如，通过轮廓的面积和圆度）来筛选出最可能是圆形的那个轮廓。
     4.  在原图上用一个矩形框（Bounding Box）将这个圆形轮廓标记出来。
 *   **任务:** 编写一个程序，接收一个**命令行参数**作为图片路径，加载图片，找到其中最可能是圆形的轮廓，并在原图上用矩形框标记出来后显示。
-*   **测试要求:** 由于该任务需要显示窗口，学长学姐会手动运行你的程序进行验证，请在`README.md`中写明运行命令，例如：`./your_program_name path/to/your/test_image.jpg`。你的`test.sh`脚本可以包含这个示例命令。
+*   **测试要求:** 由于该任务需要显示窗口，学长学姐会手动运行你的程序进行验证，请在`README.md`中写明运行命令，例如：`./your_program_name path/to/your/test_rune.png`。你的`test.sh`脚本可以包含这个示例命令。
 
 ---
 
