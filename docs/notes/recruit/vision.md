@@ -42,7 +42,7 @@ icon: material-symbols:camera-outline
 26 赛季视觉组（算法组）现招收 2026 赛季==正式成员==和==梯队成员==。
 
 - ==正式成员== 将以备赛为主，需要一定基础。作为队员参加 2026 赛季 RoboMaster 全国大学生机器人大赛，获取获奖证书。培训形式为线下集训+老带新。**需要提交开卷笔试和简历**，欢迎本各个年级同学报名。
-- ==梯队成员== 将以线上学习为主，零基础要求。作为梯队成员参与 2026 赛季备赛，获取梯队证书。表现优异者作为正式成员参加 2026 赛季 RoboMaster 全国大学生机器人大赛。培训形式以线上自学+周期性线下集会（提供内部培训材料）。**仅需要提交简历**。仅招收**本科大一大二学生**。
+- ==梯队成员== 将以线上学习为主，零基础要求。作为梯队成员参与 2026 赛季备赛，获取梯队证书。表现优异者作为正式成员参加 2026 赛季 RoboMaster 全国大学生机器人大赛。培训形式以线上自学+周期性线下集会（提供内部培训材料）。**仅需要提交简历，但是还是建议去做一下基础题目**。仅招收**本科大一大二学生**。
 
 ### 正式成员
 
@@ -83,6 +83,8 @@ icon: material-symbols:camera-outline
 - ==截止时间== 09/16 中午 12:00
 - ==文件下载== 点击查看 [笔试题](/recruit/vision/exam/) 和 [简历模板](https://raw.githubusercontent.com/Cygnomatic/Cygnomatic-Site/main/docs/视觉组简历模板.docx)。请下载后填写。
 
+**简历请上传至你的git私人远程仓库**
+
 **认真写简历！！！**
 
 **很重要！！！**
@@ -90,7 +92,7 @@ icon: material-symbols:camera-outline
 **切记！！！**
 
 <LinkCard title="提交申请" icon="ph:hand" href="https://cygnomatic.feishu.cn/share/base/form/shrcnG7fRXdAO2mcbnGnD7mZZQh">
-填写飞书表单。并在表单中选择你的作答题目难度与您的仓库地址。
+填写飞书表单。并在表单中选择你的作答题目难度与您的代码仓库地址。
 </LinkCard>
 
 
