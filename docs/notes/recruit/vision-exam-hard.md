@@ -126,7 +126,7 @@ icon: material-symbols:assignment
     
     * **测试:** 我将提供一个1GB的log文件给你，你需要用这个文件对你的程序进行测试。
     
-      [下载地址](https://raw.githubusercontent.com/Cygnomatic/Cygnomatic-Site/main/docs/robot.zip)
+      [下载地址](https://github.com/cygnomatic/Cygnomatic-Site/raw/refs/heads/main/docs/robot.zip?download=)
 
 ---
 
