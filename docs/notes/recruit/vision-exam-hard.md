@@ -69,7 +69,7 @@ icon: material-symbols:assignment
 **任务:**
 
 1.  **开发环境自动化:** 编写一个 `setup_env.sh` Bash脚本，用于自动化安装机器人开发所需的核心工具集：`git`, `cmake`, `docker.io`等等。脚本需妥善处理相关用户权限，以及不同架构识别的问题。
-2.  **工程版本控制:** 使用Git创建一个基础项目结构，并配置合理的`.gitignore`规则。
+2.  **工程版本控制:** 使用Git创建一个基础项目结构（如"Hello, RoboMaster!" 程序），并配置合理的`.gitignore`规则。
 3.  **应用的容器化封装:** 为你的项目编写一个 `Dockerfile`，并使用**多阶段构建**技术，实现轻量化的部署。
 4.  **测试要求:** 对于任务3，你的 `test.sh` 脚本应包含构建Docker镜像 (`docker build`) 和运行容器 (`docker run`) 的命令。
 

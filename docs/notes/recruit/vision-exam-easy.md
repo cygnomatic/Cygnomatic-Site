@@ -135,7 +135,7 @@ icon: material-symbols:assignment
 
 2.  **实现:**
     
-    * **语言:**Python/C++。
+    * **语言:** Python/C++。
     
     * **算法:** 使用**广度优先搜索 (BFS)** 或**深度优先搜索 (DFS)** 算法。
     
