@@ -88,11 +88,11 @@ icon: ph:cpu
 
 ## 申请报名
 
-- ==申请材料== 无
-- ==截止时间== 09/15 中午 12:00
+- ==申请材料== 
+- ==截止时间== 09/14 上午 6:00
 
-<!-- <LinkCard title="提交申请" icon="ph:hand" href="https://cygnomatic.feishu.cn/share/base/form/shrcncmiqDfeUoq0R55sMT2Mojf">
-填写飞书表单。在表单中提交您的个人信息。
+<!-- <LinkCard title="提交申请" icon="ph:hand" href="https://forms.office.com/r/TmtVa53rE2">
+在表单中提交您的个人信息即报名成功。
 </LinkCard> -->
 
-我们会在 09/16 号左右公布使用==邮件==（`recruit@cygnomatic.net`）的方式进行结果结果，并提供进入面试阶段的同学选择面试时间的链接。请注意查看邮箱。
+我们会在 09/19 号左右公布使用==邮件==（`recruit@cygnomatic.net`）的方式进行结果结果，并提供进入面试阶段的同学选择面试时间的链接。请注意查看邮箱。
