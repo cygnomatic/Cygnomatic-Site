@@ -3,7 +3,6 @@ title: 电控组招新章程
 createTime: 2025/09/05 20:12:04
 permalink:  /recruit/embed/ 
 icon: ph:cpu
-
 ---
 
 # 2026赛季逐雁电控组招新
@@ -68,36 +67,30 @@ icon: ph:cpu
 
 ### 梯队成员
 
-梯队成员作为梯队成员参与 2025 赛季备赛，获取梯队证书。表现优异者作为正式成员参加 2026 赛季 RoboMaster 全国大学生机器人大赛。主要面向零基础的同学，以线上学习为主。
+梯队成员作为梯队成员参与 2026 赛季备赛，获取梯队证书。表现优异者作为正式成员参加 2026 赛季 RoboMaster 全国大学生机器人大赛。主要面向零基础的同学，以线上学习为主。
 
-## 时间安排
+## 招新安排
 
-| 项目             | 时间                         |
-| ---------------- | ---------------------------- |
-| 招新推送          | 09/06                        |
-| 线下集训          | 9下旬-10月初（两周）         |
-| 考核              | 10月中旬，决定分流方向为正式 |
-| 面试              | 考核完成后                  |
-| 试用期（老带新）   | 10月初-11月（一个月）        |
-| 正式成员入队仪式   | 11月（待定）                 |
+| 项目                   | 时间                         |
+| ---------------------- | --------------------------- |
+| 线下集训(C语言)         | 9月                          |
+| 线下集训(嵌入式)        | 10月初                        |
+| 考核                   | 10月中旬，分流                |
+| 试用期（老带新）        | （一个月）                    |
+| 正式成员入队仪式        | 11月（待定）                  |
 
 ## 常见问题
 
-<LinkCard title="电控组 FAQ" icon="ph:question" href="https://cygnomatic.feishu.cn/sheets/Q7EUsFNjFhtXzWt9o5fcJZKAnCb?sheet=h61p3y">
+<LinkCard title="电控组 FAQ" icon="ph:question" href="https://cygnomatic.feishu.cn/wiki/NsPHwrSd5iQ4hyk5bEZcWE6Enzc?sheet=h61p3y">
 跳转至飞书云文档查看
 </LinkCard>
 
 ## 申请报名
 
-- ==申请材料== 无
-- ==截止时间== 09/15 中午 12:00
+- 截止时间 09/14 上午 6:00
 
-<!-- <LinkCard title="提交申请" icon="ph:hand" href="https://cygnomatic.feishu.cn/share/base/form/shrcncmiqDfeUoq0R55sMT2Mojf">
-填写飞书表单。在表单中提交您的个人信息。
-</LinkCard> -->
+<LinkCard title="提交申请" icon="ph:hand" href="https://forms.office.com/r/TmtVa53rE2">
+在表单中提交您的个人信息即报名成功。
+</LinkCard>
 
-:::warning 报名通道关闭
-截止到 09/22，**逐雁战队 2025 赛季（24 年秋至 25 年夏）大规模招新已结束，报名飞书表单已关闭**；直接入队通道仍然开放，若有意向加入，欢迎进入招新 QQ 群与我们联系。
-:::
-
-我们会在 09/16 号左右公布使用==邮件==（`recruit@cygnomatic.net`）的方式进行结果结果，并提供进入面试阶段的同学选择面试时间的链接。请注意查看邮箱。
+我们会在 09/17 号左右公布使用==邮件==（`recruit@cygnomatic.net`）的方式进行结果结果，并提供进入面试阶段的同学选择面试时间的链接。请注意查看邮箱。
