@@ -3,6 +3,7 @@ title: 运营组招新章程
 createTime: 2025/09/07 20:44:54
 permalink: /recruit/operat/
 icon: mdi:color
+
 ---
 
 # 2026赛季逐雁运营组招新章程
@@ -35,14 +36,6 @@ RoboMaster 作为一项综合性全国赛事，不仅对于每个队伍提出了
 3. 会使用PS的基本功能，会用PS设计海报/易拉宝等。
 4. 有相关设计竞赛获奖等证明你的设计能力；
 
-
-## 常见问题
-
-<LinkCard title="运营组 FAQ" icon="ph:question" href="https://cygnomatic.feishu.cn/wiki/NsPHwrSd5iQ4hyk5bEZcWE6Enzc?sheet=M18ng2">
-跳转至飞书云文档查看
-</LinkCard>
-
-
 ## 申请报名
 
 - ==申请材料== 无
@@ -52,5 +45,8 @@ RoboMaster 作为一项综合性全国赛事，不仅对于每个队伍提出了
 填写飞书表单。在表单中提交您的个人信息。
 </LinkCard> -->
 
+:::warning 报名通道关闭
+截止到 09/22，**逐雁战队 2025 赛季（24 年秋至 25 年夏）大规模招新已结束，报名飞书表单已关闭**；直接入队通道仍然开放，若有意向加入，欢迎进入招新 QQ 群与我们联系。
+:::
 
 我们会在 09/19 号左右（待定）公布使用==邮件==（`recruit@cygnomatic.net`）的方式进行结果通知。请注意查看邮箱。
