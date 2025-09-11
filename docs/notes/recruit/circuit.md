@@ -86,7 +86,7 @@ icon: tabler:circuit-diode
 ## 申请报名
 
 - ==申请材料== 见飞书表单
-- ==截止时间== 09/15 中午 12:00
+- ==截止时间== 09/12 23:59
 
 <!-- <LinkCard title="提交申请" icon="ph:hand" href="https://cygnomatic.feishu.cn/share/base/form/shrcn9ew85ZgE0JWY70K9JwiKng">
 填写飞书表单。在表单中提交您的个人信息。
