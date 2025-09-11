@@ -94,3 +94,7 @@ icon: ph:cpu
 </LinkCard>
 
 我们会在 09/17 号左右公布使用==邮件==（`recruit@cygnomatic.net`）的方式进行结果结果，并提供进入面试阶段的同学选择面试时间的链接。请注意查看邮箱。
+
+报名完后加群：
+![e0a50ccd6d4829bfb0ca3b18a61263f4](https://github.com/user-attachments/assets/8c63db47-4be5-4748-968c-a983cafa1b4d)
+
